@@ -1,0 +1,93 @@
+# Fill in, commit and push each day.
+# Group Member: Abtin Ghajarieh Sepanlou UTORid: ghajarie
+
+Nov 20, 2019
+	Yesterday : N/A
+	Today     : Looking over product backlog and assignment description
+	Obstacles : N/A
+
+Nov 21, 2019
+	Yesterday : Looked over product backlog
+	Today     : Working on csc236 Assignment and setting up env
+	Obstacles : N/A
+
+Nov 22, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 23, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 24, 2019
+	Yesterday : Worked on 223 assignment
+	Today     : Attempt User Story 3.1
+	Obstacles : N/A
+
+Nov 25, 2019
+	Yesterday : Implemented polygon drawing without real-time line segment check
+	Today     : Complete US3.1 by figuring out how to display potential line segment
+	Obstacles : Not being smart enough
+
+Nov 26, 2019
+	Yesterday : Implemented a working version of polygon
+	Today     : Study for 223 midterm
+	Obstacles : Large course load
+	
+Nov 27, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 28, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 29, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 30, 2019
+	Yesterday : Exam studies
+	Today     : Starting work on US3.2
+	Obstacles : Hit a roadblock where polyline commands repeat themselves
+
+Dec 1, 2019
+	Yesterday : Implemented US3.2 with dysfunctional polyline saving
+	Today     : Figure out the optimal time to addCommand so the problem is resolved
+	Obstacles : Stupidity
+	
+Dec 2, 2019
+	Yesterday : Finished US3.2
+	Today     : Starting US3.3
+	Obstacles : N/A
+
+Dec 3, 2019
+	Yesterday : Started US3.3
+	Today     : Finish US3.3
+	Obstacles : Regex understanding
+
+Dec 4, 2019
+	Yesterday : Finished US3.3
+	Today     : Start and finish Question.java and comment code
+	Obstacles : Time
+	
+Dec 5, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 7, 2019
+	Yesterday :
+	Today     :
+	Obstacles :
+	

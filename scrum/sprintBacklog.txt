@@ -1,0 +1,34 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 November 19, 2019
+# Sprint 1 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 3.0 : UTORID : ghajarie STATUS : Complete
+NAME     : Configure and use system
+OWNER    : 
+PRIORITY : 1
+ESTIMATE : 10 mins   ACTUAL :  10 mins
+ISSUE    : 
+- demonstrates that they can run Paint on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 3.1 : UTORID : ghajarie STATUS : Complete
+NAME     : Polyline
+OWNER    :
+PRIORITY : 1
+ESTIMATE : 1 day    ACTUAL : 2 days  
+AS A     : user
+ISSUE    : A button which allows me to draw a polygon. Once selected,
+a left click on the canvas places the first polyline point.
+Each subsequent left click on the canvas
+adds a line segment to the polyline. A final right click ends the polyline.
+The next left click starts another polyline.  As the mouse moves over
+the canvas, the current potential next line segment is on display.
+
+IMPL DTL : Implementation details for polyline
+See squiggle for example. There is no mouse drag for polyline.
+
+--------------------------------------------------------------------------
